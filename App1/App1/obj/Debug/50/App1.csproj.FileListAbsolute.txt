@@ -1,0 +1,5 @@
+C:\Users\ATOUATI\source\repos\App1\App1\obj\Debug\50\MonoAndroid,Version=v5.0.AssemblyAttributes.cs
+C:\Users\ATOUATI\source\repos\App1\App1\obj\Debug\50\build.props
+C:\Users\ATOUATI\source\repos\App1\App1\obj\Debug\50\adb.props
+C:\Users\ATOUATI\source\repos\App1\App1\obj\Debug\50\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\ATOUATI\source\repos\App1\App1\obj\Debug\50\res.flag
